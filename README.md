@@ -78,6 +78,9 @@ Run the main class:
 - DDL auto mode is configured in application.properties (create, update, validate, etc.)
 
 ## Author
+Karzouz Saad
+## Screenshots
+<img width="1733" height="1036" alt="Screenshot 2025-10-21 231027" src="https://github.com/user-attachments/assets/eb4b7246-6508-4c9e-94a3-0d9f220eaaa5" />
+<img width="1804" height="1093" alt="Screenshot 2025-10-21 230957" src="https://github.com/user-attachments/assets/8b1738d6-12c0-4b2f-ad5e-817fd431bff0" />
 
-Created for learning Spring-Hibernate integration.
 
