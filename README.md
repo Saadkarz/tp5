@@ -1,6 +1,4 @@
-# Spring-Hibernate Demo
-
-A simple Java project demonstrating the integration of Spring Framework with Hibernate ORM for database operations.
+# tp5
 
 ## Project Overview
 
